@@ -3,7 +3,7 @@ const app = express()
 app.set('view engine', 'ejs');
 app.set('views', __dirname + '/views',);
 const { name, description, invite, support, pfp, feature1, feature2, feature3, feature4 } = require("./config.json")
-const port = 8000
+const port = 5410
 app.listen(port, () => {
   console.log(`Website is working `)
 })
