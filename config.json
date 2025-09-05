@@ -1,10 +1,10 @@
 {
-  "port": "5400",
+  "port": "5410",
   "name": "Hoyolab Auto Bot",
   "description": "Hoyolab Auto là bot tự động hỗ trợ người chơi các tựa game của HoYoverse. Nó có thể điểm danh hàng ngày, gửi nhắc nhở stamina/expedition, tự nhập code và thông báo trực tiếp qua Discord hoặc Telegram.",
   "invite": "https://discord.com/oauth2/authorize?client_id=1248580032687902751&permissions=8&integration_type=0&scope=bot",
   "support": "https://github.com/torikushiii/hoyolab-auto/issues",
-  "pfp": "https://cdn.discordapp.com/attachments/1027603800153919600/1028236433439338496/1665221033192.png",
+  "pfp": "https://cdn.discordapp.com/avatars/1248580032687902751/87af8ce1dc2386528cd12334b9cbcde7?size=1024",
   "feature1": "Daily Check-in, Tự động đăng nhập và điểm danh hàng ngày cho Genshin Impact, Honkai: Star Rail, etc...",
   "feature2": "Reminders, Gửi nhắc nhở dailies, weeklies, stamina/resin đầy và expedition hoàn thành.",
   "feature3": "Auto Redeem & Diary, Tự động nhập code quà tặng, kiểm tra thu nhập tháng của Genshin (Traveler’s Diary) và Star Rail (Monthly Calendar).",
